@@ -1,0 +1,30 @@
+/* 
+Stylesheet for index.css
+*/
+html{
+    min-height: 100%;
+    background-image: linear-gradient(to bottom, rgba(128, 0, 128, 1), rgba(128, 0, 128, 0));
+    background-repeat: no-repeat;
+}
+
+body{
+    font-family: "Courier New", Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+#title{
+    text-align: center;
+    color: rgb(255, 251, 0);
+}
+
+.continuous-gradient {
+    /* Define your custom colors here */
+    background: linear-gradient(180deg, #9100bdad, #c3373700); 
+    
+    /* Prevent the gradient from repeating over content blocks */
+    background-repeat: no-repeat; 
+    
+    /* Fix the gradient to the screen viewport during scroll */
+    background-attachment: fixed; 
+}
