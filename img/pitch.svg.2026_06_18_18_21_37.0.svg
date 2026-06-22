@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="pitch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.5283659"
+     inkscape:cx="902.78347"
+     inkscape:cy="593.33882"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Base Layers"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#016fd0">
+    <rect
+       style="fill:#016fd0;fill-opacity:1;stroke:#008000;stroke-width:1.14056"
+       id="rect2"
+       width="1918.8594"
+       height="1078.8595"
+       x="0.57027394"
+       y="0.57027394"
+       inkscape:label="background" />
+    <rect
+       style="fill:#3e5a2c;fill-opacity:1;stroke:#008000;stroke-width:0.947865"
+       id="rect3"
+       width="1662.0521"
+       height="934.05212"
+       x="128.97389"
+       y="72.973961"
+       inkscape:label="pitch" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Pitch Colors">
+    <g
+       id="g4">
+      <rect
+         style="fill:#5b9452;fill-opacity:1;stroke:#008000;stroke-width:0.60141"
+         id="rect4"
+         width="137.39859"
+         height="934.39856"
+         x="267.80072"
+         y="75.505821" />
+      <rect
+         style="fill:#5b9452;fill-opacity:1;stroke:#008000;stroke-width:0.60141"
+         id="rect4-8"
+         width="137.39859"
+         height="934.39856"
+         x="544.72571"
+         y="75.505821"
+         inkscape:label="rect4-8" />
+      <rect
+         style="fill:#5b9452;fill-opacity:1;stroke:#008000;stroke-width:0.60141"
+         id="rect4-8-1"
+         width="137.39859"
+         height="934.39856"
+         x="1098.5756"
+         y="75.505821"
+         inkscape:label="rect4-8" />
+      <rect
+         style="fill:#5b9452;fill-opacity:1;stroke:#008000;stroke-width:0.60141"
+         id="rect4-8-1-2"
+         width="137.39859"
+         height="934.39856"
+         x="1375.5006"
+         y="75.505821"
+         inkscape:label="rect4-8" />
+      <rect
+         style="fill:#5b9452;fill-opacity:1;stroke:#008000;stroke-width:0.60141"
+         id="rect4-8-1-2-6"
+         width="137.39859"
+         height="934.39856"
+         x="1652.4255"
+         y="75.505821"
+         inkscape:label="rect4-8" />
+      <rect
+         style="fill:#5b9452;fill-opacity:1;stroke:#008000;stroke-width:0.60141"
+         id="rect4-8-1-2-2"
+         width="137.39859"
+         height="934.39856"
+         x="821.65063"
+         y="75.505821"
+         inkscape:label="rect4-8" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Pitch Lines"
+     inkscape:highlight-color="#ffffff"
+     style="fill:#ffffff">
+    <g
+       id="g15"
+       inkscape:label="vertical touchlines">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect15"
+         width="6"
+         height="934.05212"
+         x="128.97389"
+         y="72.973961"
+         inkscape:label="left touchline" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect15-1"
+         width="6"
+         height="934.05212"
+         x="953.04919"
+         y="75.679031"
+         inkscape:label="centerline" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect15-1-9"
+         width="6"
+         height="934.05212"
+         x="1783.8241"
+         y="75.852234"
+         inkscape:label="right touchline" />
+    </g>
+    <g
+       id="g16"
+       inkscape:label="horizontal touchlines">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect16"
+         width="1660.8502"
+         height="2.878273"
+         x="128.97389"
+         y="72.973961"
+         inkscape:label="top touchline" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect16-2"
+         width="1660.8502"
+         height="2.878273"
+         x="128.97389"
+         y="1008.0261"
+         inkscape:label="bottom touchline" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="path16"
+         cx="956.04919"
+         cy="541.93921"
+         r="9.3680296"
+         inkscape:label="center spot" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="path16-1"
+         cx="405.50003"
+         cy="541.93921"
+         r="9.3680296"
+         inkscape:label="left penalty spot" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="path16-1-2"
+         cx="1512.8661"
+         cy="541.93903"
+         r="9.3680296"
+         inkscape:label="right penalty spot" />
+    </g>
+    <g
+       id="g18"
+       inkscape:label="right 18 yd box">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect17"
+         width="414.82349"
+         height="7.5705113"
+         x="1375.5006"
+         y="299.03519" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect17-1"
+         width="414.82349"
+         height="7.5705113"
+         x="1375.5005"
+         y="777.27234" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.07668"
+         id="rect17-1-0"
+         width="485.79968"
+         height="7.4938321"
+         x="-784.8045"
+         y="1372.7759"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="g18-0"
+       inkscape:label="right 6 yd box"
+       style="fill:#ffffff"
+       transform="matrix(0.33001302,0,0,0.49982207,1199.2686,279.46997)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect17-6"
+         width="414.82349"
+         height="7.5705113"
+         x="1375.5006"
+         y="299.03519" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19465"
+         id="rect17-1-1"
+         width="414.62885"
+         height="10.809622"
+         x="1375.5978"
+         y="775.65277" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.60066"
+         id="rect17-1-0-3"
+         width="485.2757"
+         height="16.580444"
+         x="-784.54254"
+         y="1373.0378"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="g18-4"
+       inkscape:label="left 18 yd box"
+       style="fill:#ffffff"
+       transform="matrix(-1,0,0,1,1924.9954,0.80042648)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect17-60"
+         width="414.82349"
+         height="7.5705113"
+         x="1375.5006"
+         y="299.03519" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         id="rect17-1-6"
+         width="414.82349"
+         height="7.5705113"
+         x="1375.5005"
+         y="777.27234" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.07668"
+         id="rect17-1-0-6"
+         width="485.79968"
+         height="7.4938321"
+         x="-784.8045"
+         y="1372.7759"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>
