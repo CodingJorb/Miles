@@ -1,0 +1,7 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.container div {
+  text-align: center;
+}

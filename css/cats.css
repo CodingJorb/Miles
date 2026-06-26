@@ -1,21 +1,25 @@
-html{
-    background-image: linear-gradient(45deg, black, white );
-    margin: 0; 
-    height: 100%; 
+html {
+    background-color: rgb(119, 239, 255);
+    background-image: linear-gradient(90deg, transparent 50%, rgba(255,255,255,.5) 50%);
+    background-size: 50px 50px;
+}
+
+body {
+    margin: 0;
+    height: 100%;
     overflow: hidden
 }
 
-body{
-    margin: 0; 
-    height: 100%; 
-    overflow: hidden
+button {
+    background: transparent;
+    border: none;
+    outline: none;
 }
 
 .page-background {
-    width: 100%;
-    height: auto;
-    margin: 0px auto;
-    padding-top: 20vh;
+    margin: -131px;
+    position: absolute;
+    z-index: -1;a
 }
 
 .container {
@@ -25,107 +29,107 @@ body{
 
 .bed {
     position: absolute;
-    bottom: 197px;
-    right: 926px;
+    bottom: 216px;
+    right: 954px;
     width: 10vw;
 }
 
 .bed:hover {
     width: 10.5vw;
-    bottom: 197px;
-    right: 926px;
+    bottom: 216px;
+    right: 954px;
 }
 
 .hut {
     position: absolute;
     width: 15vw;
-    bottom: 136px;
-    right: 1288px;
+    bottom: 164px;
+    right: 1380px;
 }
 
 .hut:hover {
     width: 15.5vw;
-    bottom: 136px;
-    right: 1288px;
+    bottom: 164px;
+    right: 1380px;
 }
 
 .swing {
     position: absolute;
     width: 8vw;
-    bottom: -4px;
-    right: 1351px;
+    bottom: 6px;
+    right: 1444px;
 }
 
 .swing:hover {
     width: 8.5vw;
-    bottom: -4px;
-    right: 1351px;
+    bottom: 6px;
+    right: 1444px;
 }
 
 .towerL {
     position: absolute;
     width: 8vw;
-    bottom: 417px;
-    right: 1452px;
+    bottom: 468px;
+    right: 1555px;
     transform: scaleX(-1);
 }
 
 .towerL:hover {
     width: 8.5vw;
-    bottom: 417px;
-    right: 1452px;
+    bottom: 468px;
+    right: 1555px;
 }
 
 .towerM {
     position: absolute;
     width: 8vw;
-    bottom: 547px;
-    right: 1348px;
+    bottom: 603px;
+    right: 1443px;
 }
 
 .towerM:hover {
     width: 8.5vw;
-    bottom: 547px;
-    right: 1348px;
+    bottom: 603px;
+    right: 1443px;
 }
 
 .towerR {
     position: absolute;
     width: 8vw;
-    bottom: 472px;
-    right: 1254px;
+    bottom: 522px;
+    right: 1338px;
 }
 
 .towerR:hover {
     width: 8.5vw;
-    bottom: 472px;
-    right: 1254px;
+    bottom: 522px;
+    right: 1338px;
 }
 
 .bedR {
     position: absolute;
     width: 10vw;
-    bottom: 182px;
+    bottom: 207px;
     right: 612px;
     transform: scaleX(-1);
 }
 
 .bedR:hover {
     width: 10.5vw;
-    bottom: 182px;
+    bottom: 207px;
     right: 612px;
 }
 
 .lamp {
     position: absolute;
-    width: 20vw;
-    bottom: -160px;
-    right: 75px;
+    width: 14vw;
+    bottom: -100px;
+    right: 124px;
     transform: scaleX(-1);
 }
 
 .lamp:hover {
-    width: 20.5vw;
-    bottom: -160px;
-    right: 75px;
+    width: 14.5vw;
+    bottom: -100px;
+    right: 124px;
 }
