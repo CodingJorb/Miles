@@ -1,14 +1,16 @@
 <!doctype html>
 <html lang="en-US">
+
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" type="image/png" href="img/cat.png">
+    <link rel="stylesheet" href="css/cats.css">
     <link rel="stylesheet" href="css/navbar.css">
-    <link rel="icon" type="image/png" href="img/puppy.png">
-    <title>Jorb's World - Home</title>
+    <link rel="stylesheet" href="css/popover.css">
+    <script src="js/position.js"></script>
+    <title>Jorb's World - Cats :3</title>
 </head>
+
 <body>
     <nav>
         <div class="navicon">
@@ -19,10 +21,57 @@
         <a href="#sports">Sports</a>
         <a href="#Links">Links</a>
     </nav>
+    <main>
+        <picture>
+            <div class="container">
+                <img class="page-background" src="img/bedroom.svg">
+            </div>
+        </picture>
+        <button popovertarget="slideshowContainer" id="0">
+            <img src="img/cooper_irl_01.png" class="bed">
+        </button>
+        <button popovertarget="slideshowContainer" id="1">
+            <img src="img/cooper_irl_02.png" class="hut">
+        </button>
+        <button popovertarget="slideshowContainer" id="2">
+            <img src="img/cooper_irl_03.png" class="swing">
+        </button>
+        <button popovertarget="slideshowContainer" id="3">
+            <img src="img/cooper_irl_03.png" class="towerL">
+        </button>
+        <button popovertarget="slideshowContainer" id="4">
+            <img src="img/cooper_irl_03.png" class="towerM">
+        </button>
+        <button popovertarget="slideshowContainer" id="5">
+            <img src="img/cooper_irl_03.png" class="towerR">
+        </button>
+        <button popovertarget="slideshowContainer" id="6">
+            <img src="img/cooper_irl_01.png" class="bedR">
+        </button>
+        <button popovertarget="slideshowContainer" id="7">
+            <img src="img/cooper_irl_02.png" class="lamp">
+        </button>
+    </main>
+    <footer>
 
-    <div class="container">
-        <h1 id="title">Welcome to Jorb's World</h1>
-        <p id="title">The place for me to dump my thoughts</p>
+    </footer>
+
+
+    <div id="slideshowContainer" popover>
+        <div class="imgContainer">
+            <img class="slides" src="img/cooper6.png">
+            <img class="slides" src="img/cooper1.png">
+            <img class="slides" src="img/cooper2.png">
+            <img class="slides" src="img/cooper3.png">
+            <img class="slides" src="img/cooper4.png">
+            <img class="slides" src="img/cooper5.png">
+
+            <button class="button-style display-left" onclick="plusDivs(-1)">&#10094;</button>
+            <button class="button-style display-right" onclick="plusDivs(1)">&#10095;</button>
+        </div>
     </div>
+
+    <script src="js/slideshow.js"></script>
 </body>
+
 </html>
