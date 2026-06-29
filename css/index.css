@@ -1,10 +1,5 @@
-/* 
-Stylesheet for index.css
-*/
-#title{
-    text-align: center;
-}
-
-#questions {
-    font-weight: bold;
+.jerseyContainer {
+  display: flex;
+  width: 600px;
+  height: 448px;
 }
