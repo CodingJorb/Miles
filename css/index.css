@@ -1,3 +1,187 @@
+html {
+  background-color: rgb(119, 239, 255);
+  background-image: linear-gradient(90deg, transparent 50%, rgba(255, 255, 255, .5) 50%);
+  background-size: 50px 50px;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.page-background {
+  margin: -131px;
+  position: absolute;
+  z-index: -1;
+}
+
+.container {
+  position: relative;
+  display: inline;
+}
+
+.bed {
+  position: absolute;
+  bottom: 216px;
+  right: 954px;
+  width: 10vw;
+}
+
+.bed:hover {
+  width: 10.5vw;
+  bottom: 216px;
+  right: 954px;
+}
+
+.hut {
+  position: absolute;
+  width: 15vw;
+  bottom: 164px;
+  right: 1380px;
+}
+
+.hut:hover {
+  width: 15.5vw;
+  bottom: 164px;
+  right: 1380px;
+}
+
+.swing {
+  position: absolute;
+  width: 8vw;
+  bottom: 6px;
+  right: 1444px;
+}
+
+.swing:hover {
+  width: 8.5vw;
+  bottom: 6px;
+  right: 1444px;
+}
+
+.towerL {
+  position: absolute;
+  width: 8vw;
+  bottom: 468px;
+  right: 1555px;
+  transform: scaleX(-1);
+}
+
+.towerL:hover {
+  width: 8.5vw;
+  bottom: 468px;
+  right: 1555px;
+}
+
+.towerM {
+  position: absolute;
+  width: 8vw;
+  bottom: 603px;
+  right: 1443px;
+}
+
+.towerM:hover {
+  width: 8.5vw;
+  bottom: 603px;
+  right: 1443px;
+}
+
+.towerR {
+  position: absolute;
+  width: 8vw;
+  bottom: 522px;
+  right: 1338px;
+}
+
+.towerR:hover {
+  width: 8.5vw;
+  bottom: 522px;
+  right: 1338px;
+}
+
+.bedR {
+  position: absolute;
+  width: 10vw;
+  bottom: 207px;
+  right: 612px;
+  transform: scaleX(-1);
+}
+
+.bedR:hover {
+  width: 10.5vw;
+  bottom: 207px;
+  right: 612px;
+}
+
+.lamp {
+  position: absolute;
+  width: 14vw;
+  bottom: -100px;
+  right: 124px;
+  transform: scaleX(-1);
+}
+
+.lamp:hover {
+  width: 14.5vw;
+  bottom: -100px;
+  right: 124px;
+}
+
+.imgtxt {
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+  position: absolute;
+}
+
+.imgtxt span {
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  font-size: 2.5rem;
+  color: #FFF;
+  filter: drop-shadow(1px 1px 0 black) drop-shadow(-1px 1px 0 black) drop-shadow(1px -1px 0 black) drop-shadow(-1px -1px 0 black);
+}
+
+.imgtxt:hover span,
+.imgtxt:focus span {
+  opacity: 1;
+}
+
+.imgtxt:hover img,
+.imgtxt:focus img {
+  /* add hover effects like transform or filter to your images here! */
+  transform: scale(1.05);
+}
+
+#a {
+  transform: scale(.60);
+  bottom: 535px;
+  right: 667px;
+}
+
+#b {
+  transform: scale(.60);
+  bottom: 535px;
+  right: 667px;
+}
+
+#c {
+  transform: scale(.45);
+  bottom: 475px;
+  right: 574px;
+}
+
 .jerseyContainer {
   display: flex;
   width: 600px;
